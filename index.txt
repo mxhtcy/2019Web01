@@ -1,0 +1,20 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>190808212汤辰妍的个人网站——首页</title>
+<img src="images/touxiang.jpg"alt="头像"width="700"height="700"
+</head>
+
+<body>
+我的个人网站——首页内容
+<p><em>基本信息——</em></p>
+院系：媒体工程学院<br/>
+班级：软工2班<br/>
+学号：190808212<br/>
+姓名：汤辰妍<br/>
+籍贯：浙江杭州<br/>
+兴趣爱好：看音乐剧、拍照、修图<br/>
+</p>
+</body>
+</html>
